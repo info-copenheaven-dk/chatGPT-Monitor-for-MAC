@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Byg Mac-app",
+      "type": "shell",
+      "command": "./scripts/build-app.sh",
+      "args": ["debug"],
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": []
+    }
+  ]
+}

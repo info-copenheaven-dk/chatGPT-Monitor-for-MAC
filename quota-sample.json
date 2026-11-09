@@ -1,0 +1,34 @@
+{
+  "capturedAt": "2026-11-04T21:41:05.884Z",
+  "cliVersion": "0.166.0-alpha.6",
+  "rateLimits": {
+    "limitId": "codex",
+    "limitName": null,
+    "primary": {
+      "usedPercent": 9,
+      "windowDurationMins": 300,
+      "resetsAt": 1793844517
+    },
+    "secondary": {
+      "usedPercent": 5,
+      "windowDurationMins": 10080,
+      "resetsAt": 1794411629
+    }
+  },
+  "rateLimitsByLimitId": {
+    "codex": {
+      "limitId": "codex",
+      "limitName": null,
+      "primary": {
+        "usedPercent": 9,
+        "windowDurationMins": 300,
+        "resetsAt": 1793844517
+      },
+      "secondary": {
+        "usedPercent": 5,
+        "windowDurationMins": 10080,
+        "resetsAt": 1794411629
+      }
+    }
+  }
+}
